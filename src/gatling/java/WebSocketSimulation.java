@@ -16,7 +16,7 @@ public class WebSocketSimulation extends Simulation {
 
     ChainBuilder webSocket =
             exec(ws("WebSocket Connect").connect("/")
-                            .await(20)
+                            .await(5)
                             .on(webSocketCheck))
                     .pause(30)
                     .exec(ws("WebSocket Close").close());
