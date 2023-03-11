@@ -7,7 +7,7 @@ import io.gatling.javaapi.http.*;
 public class ServerSentEventsSimulation extends Simulation {
 
     HttpProtocolBuilder httpProtocol =
-            http.baseUrl("http://localhost:3000");
+            http.baseUrl("http://34.148.212.179:3000");
 
     SseMessageCheck serverSentEventsCheck =
             sse.checkMessage("Server-sent Events Check")
@@ -20,10 +20,30 @@ public class ServerSentEventsSimulation extends Simulation {
                     .pause(30)
                     .exec(sse("Server-sent Events Close").close());
 
-    ScenarioBuilder scenario = scenario("Users").exec(serverSentEvents);
+    ScenarioBuilder openScenario = scenario("Open").exec(serverSentEvents);
+    ScenarioBuilder closedScenario = scenario("Closed").exec(serverSentEvents);
+
+    public PopulationBuilder runOpenScenario() {
+        return openScenario.injectOpen(
+                rampUsers(100).during(60),
+                rampUsers(150).during(240),
+                constantUsersPerSec(1).during(300).randomized()
+
+        );
+    }
+
+    public PopulationBuilder runClosedScenario() {
+        return closedScenario.injectClosed(
+                rampConcurrentUsers(0).to(100).during(60),
+                rampConcurrentUsers(100).to(250).during(240),
+                constantConcurrentUsers(250).during(300)
+        );
+    }
 
     {
-        setUp(scenario.injectOpen(rampUsers(30).during(10)))
+        setUp(
+                runClosedScenario()
+        )
                 .protocols(httpProtocol);
     }
 
