@@ -7,7 +7,7 @@ import io.gatling.javaapi.http.*;
 public class ServerSentEventsSimulation extends Simulation {
 
     HttpProtocolBuilder httpProtocol =
-            http.baseUrl("http://34.148.212.179:3000");
+            http.baseUrl("http://34.138.203.98:3000");
 
     SseMessageCheck serverSentEventsCheck =
             sse.checkMessage("Server-sent Events Check")
@@ -15,7 +15,7 @@ public class ServerSentEventsSimulation extends Simulation {
 
     ChainBuilder serverSentEvents =
             exec(sse("Server-sent Events Connect").connect("/event-stream")
-                            .await(5)
+                            .await(10)
                             .on(serverSentEventsCheck))
                     .pause(30)
                     .exec(sse("Server-sent Events Close").close());
