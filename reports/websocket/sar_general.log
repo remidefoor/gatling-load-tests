@@ -1,0 +1,2542 @@
+Linux 5.10.0-21-cloud-amd64 (real-time-communication-vm) 	03/16/23 	_x86_64_	(2 CPU)
+
+07:12:46        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:12:56        all      0.1%      0.0%      0.1%      0.2%      0.0%      0.0%      0.0%      0.0%      0.0%     99.6%
+
+07:12:46          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:12:56         0.50      0.30      0.20      0.00     15.20      6.40      0.00
+
+07:12:46    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:12:56       573.3M    668.8M    153.7M     15.8%     21.3M    168.8M    357.7M     36.7%     91.9M    193.6M     36.0k     91.1M     58.5M      2.0M      2.9M      7.6M
+
+07:12:46      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:12:56            0       130      0.00      0.02      0.00         0
+
+07:12:46     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:12:56         0.0%      0.0%      0.0%      0.1%
+
+07:12:46      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:12:56         0.2%      0.1%      0.1%      0.3%      0.2%      0.1%      0.1%      0.3%
+
+07:12:46     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:12:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:12:56        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:13:06        all      0.1%      0.0%      0.1%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:12:56          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:13:06         0.40      0.00      0.40      0.00      0.00     10.40      0.00
+
+07:12:56    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:13:06       573.3M    668.8M    153.8M     15.8%     21.3M    168.8M    357.7M     36.7%     91.9M    193.6M     52.0k     91.1M     58.5M      2.0M      2.9M      7.6M
+
+07:12:56      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:13:06            0       130      0.00      0.02      0.00         0
+
+07:12:56     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:13:06         0.0%      0.0%      0.0%      0.1%
+
+07:12:56      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:13:06         0.1%      0.0%      0.1%      0.0%      0.1%      0.0%      0.1%      0.0%
+
+07:12:56     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:13:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:13:06        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:13:16        all      0.2%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:13:06          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:13:16         0.20      0.00      0.20      0.00      0.00      3.20      0.00
+
+07:13:06    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:13:16       573.3M    668.8M    153.7M     15.8%     21.3M    168.8M    357.7M     36.7%     91.9M    193.6M     56.0k     91.1M     58.5M      2.0M      2.9M      7.6M
+
+07:13:06      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:13:16            0       130      0.00      0.02      0.00         0
+
+07:13:06     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:13:16         0.0%      0.0%      0.0%      0.1%
+
+07:13:06      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:13:16         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:13:06     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:13:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:13:16        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:13:26        all      0.2%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.7%
+
+07:13:16          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:13:26         1.30      0.00      1.30      0.00      0.00     20.00      0.00
+
+07:13:16    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:13:26       573.2M    668.7M    153.7M     15.8%     21.3M    168.8M    357.7M     36.7%     91.9M    193.8M     20.0k     91.2M     58.6M      2.0M      2.9M      7.6M
+
+07:13:16      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:13:26            0       130      0.00      0.02      0.00         0
+
+07:13:16     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:13:26         0.0%      0.0%      0.0%      0.1%
+
+07:13:16      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:13:26         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:13:16     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:13:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:13:26        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:13:36        all      0.3%      0.0%      0.1%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%     99.6%
+
+07:13:26          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:13:36         0.30      0.00      0.30      0.00      0.00      6.40      0.00
+
+07:13:26    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:13:36       573.1M    668.6M    153.8M     15.8%     21.4M    168.8M    357.7M     36.7%     91.9M    193.8M     36.0k     91.2M     58.6M      2.0M      2.9M      7.6M
+
+07:13:26      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:13:36            0       130      0.00      0.02      0.00         0
+
+07:13:26     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:13:36         0.0%      0.0%      0.0%      0.1%
+
+07:13:26      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:13:36         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:13:26     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:13:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:13:36        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:13:46        all      0.2%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.7%
+
+07:13:36          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:13:46         0.40      0.00      0.40      0.00      0.00      6.40      0.00
+
+07:13:36    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:13:46       572.6M    668.3M    154.2M     15.8%     21.4M    168.8M    357.7M     36.7%     92.0M    194.3M     40.0k     91.8M     58.7M      2.0M      2.9M      7.6M
+
+07:13:36      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:13:46            0       130      0.00      0.02      0.00         0
+
+07:13:36     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:13:46         0.0%      0.0%      0.0%      0.1%
+
+07:13:36      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:13:46         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:13:36     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:13:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:13:46        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:13:56        all      0.2%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%      0.0%     99.7%
+
+07:13:46          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:13:56         0.60      0.00      0.60      0.00      0.00      6.40      0.00
+
+07:13:46    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:13:56       572.2M    668.0M    154.4M     15.8%     21.4M    168.9M    357.7M     36.7%     92.0M    194.6M     28.0k     92.0M     58.8M      2.0M      2.9M      7.6M
+
+07:13:46      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:13:56            0       130      0.00      0.02      0.00         0
+
+07:13:46     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:13:56         0.0%      0.0%      0.0%      0.1%
+
+07:13:46      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:13:56         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:13:46     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:13:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:13:56        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:14:06        all      0.3%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.5%
+
+07:13:56          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:14:06         0.80      0.00      0.80      0.00      0.00     15.20      0.00
+
+07:13:56    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:14:06       572.0M    668.6M    154.4M     15.8%     21.4M    168.9M    357.7M     36.7%     92.0M    194.8M     24.0k     92.2M     59.0M      2.0M      2.9M      7.6M
+
+07:13:56      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:14:06            0       130      0.00      0.01      0.00         0
+
+07:13:56     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:14:06         0.0%      0.0%      0.0%      0.1%
+
+07:13:56      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:14:06         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:13:56     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:14:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:14:06        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:14:16        all      0.3%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.6%
+
+07:14:06          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:14:16         0.30      0.00      0.30      0.00      0.00      4.00      0.00
+
+07:14:06    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:14:16       571.7M    668.2M    154.6M     15.9%     21.4M    168.9M    357.7M     36.7%     92.0M    194.8M     36.0k     92.2M     59.1M      2.0M      2.9M      7.6M
+
+07:14:06      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:14:16            0       130      0.00      0.01      0.00         0
+
+07:14:06     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:14:16         0.0%      0.0%      0.0%      0.1%
+
+07:14:06      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:14:16         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:14:06     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:14:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:14:16        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:14:26        all      0.2%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.7%
+
+07:14:16          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:14:26         0.40      0.00      0.40      0.00      0.00      7.20      0.00
+
+07:14:16    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:14:26       571.2M    667.8M    155.0M     15.9%     21.4M    168.9M    357.7M     36.7%     92.0M    194.9M    328.0k     92.3M     59.2M      2.1M      2.9M      7.6M
+
+07:14:16      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:14:26            0       131      0.00      0.01      0.00         0
+
+07:14:16     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:14:26         0.0%      0.0%      0.0%      0.1%
+
+07:14:16      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:14:26         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:14:16     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:14:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:14:26        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:14:36        all      0.2%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:14:26          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:14:36         0.50      0.00      0.50      0.00      0.00      8.80      0.00
+
+07:14:26    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:14:36       571.2M    667.8M    155.0M     15.9%     21.4M    168.9M    357.7M     36.7%     92.0M    195.0M    332.0k     92.3M     59.2M      2.1M      2.9M      7.6M
+
+07:14:26      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:14:36            0       131      0.00      0.01      0.00         0
+
+07:14:26     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:14:36         0.0%      0.0%      0.0%      0.1%
+
+07:14:26      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:14:36         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:14:26     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:14:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:14:36        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:14:46        all      0.2%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.6%
+
+07:14:36          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:14:46         0.90      0.00      0.90      0.00      0.00     15.20      0.00
+
+07:14:36    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:14:46       571.2M    667.8M    155.0M     15.9%     21.4M    168.9M    357.7M     36.7%     92.0M    195.0M    316.0k     92.3M     59.2M      2.1M      2.9M      7.6M
+
+07:14:36      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:14:46            0       131      0.00      0.01      0.00         0
+
+07:14:36     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:14:46         0.0%      0.0%      0.0%      0.1%
+
+07:14:36      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:14:46         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:14:36     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:14:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:14:46        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:14:56        all      0.1%      0.0%      0.1%      0.1%      0.0%      0.0%      0.1%      0.0%      0.0%     99.7%
+
+07:14:46          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:14:56         6.50      0.00      6.50      0.00      0.00     62.40      0.00
+
+07:14:46    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:14:56       570.8M    667.5M    155.2M     15.9%     21.5M    168.9M    357.7M     36.7%     92.0M    195.3M     60.0k     92.7M     59.3M      2.1M      2.9M      7.6M
+
+07:14:46      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:14:56            0       131      0.00      0.01      0.00         0
+
+07:14:46     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:14:56         0.0%      0.0%      0.0%      0.1%
+
+07:14:46      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:14:56         0.0%      0.0%      0.1%      0.2%      0.0%      0.0%      0.1%      0.2%
+
+07:14:46     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:14:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:14:56        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:15:06        all      0.3%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.6%
+
+07:14:56          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:15:06         1.00      0.00      1.00      0.00      0.00     16.80      0.00
+
+07:14:56    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:15:06       570.2M    666.9M    155.7M     16.0%     21.5M    168.9M    357.7M     36.7%     92.1M    195.5M    220.0k     92.9M     59.3M      2.1M      2.9M      7.7M
+
+07:14:56      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:15:06            0       131      0.00      0.01      0.00         0
+
+07:14:56     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:15:06         0.0%      0.0%      0.0%      0.1%
+
+07:14:56      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:15:06         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:14:56     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:15:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:15:06        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:15:16        all      0.2%      0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%     99.7%
+
+07:15:06          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:15:16         0.40      0.00      0.40      0.00      0.00      8.00      0.00
+
+07:15:06    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:15:16       570.0M    667.4M    155.9M     16.0%     21.5M    168.9M    357.7M     36.7%     92.1M    195.9M    244.0k     93.3M     59.3M      2.1M      2.9M      7.7M
+
+07:15:06      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:15:16            0       131      0.00      0.01      0.00         0
+
+07:15:06     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:15:16         0.0%      0.0%      0.0%      0.1%
+
+07:15:06      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:15:16         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:15:06     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:15:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:15:16        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:15:26        all      0.3%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.7%
+
+07:15:16          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:15:26         0.80      0.00      0.80      0.00      0.00     16.00      0.00
+
+07:15:16    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:15:26       568.8M    666.2M    157.1M     16.1%     21.5M    168.9M    357.7M     36.7%     92.1M    196.1M    228.0k     93.4M     59.4M      2.1M      2.9M      7.7M
+
+07:15:16      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:15:26            0       131      0.00      0.01      0.00         0
+
+07:15:16     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:15:26         0.0%      0.0%      0.0%      0.1%
+
+07:15:16      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:15:26         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:15:16     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:15:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:15:26        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:15:36        all      0.2%      0.0%      0.1%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%     99.7%
+
+07:15:26          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:15:36         4.80      0.00      4.80      0.00      0.00     47.20      0.00
+
+07:15:26    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:15:36       568.8M    666.2M    157.1M     16.1%     21.5M    168.9M    357.7M     36.7%     92.1M    196.1M     44.0k     93.4M     59.4M      2.1M      2.9M      7.7M
+
+07:15:26      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:15:36            0       131      0.00      0.01      0.00         0
+
+07:15:26     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:15:36         0.0%      0.0%      0.0%      0.1%
+
+07:15:26      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:15:36         0.0%      0.0%      0.1%      0.1%      0.0%      0.0%      0.1%      0.1%
+
+07:15:26     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:15:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:15:36        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:15:46        all      0.3%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.6%
+
+07:15:36          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:15:46         0.90      0.00      0.90      0.00      0.00     10.40      0.00
+
+07:15:36    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:15:46       568.8M    666.3M    157.1M     16.1%     21.5M    168.9M    357.7M     36.7%     92.1M    196.5M     32.0k     93.8M     59.3M      2.1M      2.9M      7.7M
+
+07:15:36      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:15:46            0       131      0.00      0.00      0.00         0
+
+07:15:36     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:15:46         0.0%      0.0%      0.0%      0.1%
+
+07:15:36      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:15:46         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:15:36     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:15:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:15:46        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:15:56        all      0.2%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:15:46          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:15:56         0.20      0.00      0.20      0.00      0.00      3.20      0.00
+
+07:15:46    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:15:56       568.7M    666.2M    157.0M     16.1%     21.5M    168.9M    357.9M     36.7%     92.1M    196.7M     36.0k     94.0M     59.5M      2.1M      2.9M      7.7M
+
+07:15:46      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:15:56            0       131      0.00      0.00      0.00         0
+
+07:15:46     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:15:56         0.0%      0.0%      0.0%      0.1%
+
+07:15:46      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:15:56         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:15:46     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:15:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:15:56        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:16:06        all      0.2%      0.0%      0.0%      0.1%      0.0%      0.0%      0.1%      0.0%      0.0%     99.7%
+
+07:15:56          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:16:06         0.90      0.00      0.90      0.00      0.00     18.40      0.00
+
+07:15:56    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:16:06       568.1M    665.7M    157.6M     16.1%     21.6M    168.9M    357.7M     36.7%     92.1M    196.6M     40.0k     93.9M     59.5M      2.0M      2.9M      7.6M
+
+07:15:56      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:16:06            0       128      0.00      0.00      0.00         0
+
+07:15:56     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:16:06         0.0%      0.0%      0.0%      0.1%
+
+07:15:56      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:16:06         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:15:56     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:16:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:16:06        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:16:16        all      0.3%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.6%
+
+07:16:06          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:16:16         0.80      0.00      0.80      0.00      0.00      8.80      0.00
+
+07:16:06    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:16:16       568.5M    666.0M    157.2M     16.1%     21.6M    168.9M    357.7M     36.7%     92.1M    196.7M     24.0k     94.0M     59.5M      2.0M      2.9M      7.6M
+
+07:16:06      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:16:16            0       128      0.00      0.00      0.00         0
+
+07:16:06     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:16:16         0.0%      0.0%      0.0%      0.1%
+
+07:16:06      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:16:16         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:16:06     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:16:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:16:16        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:16:26        all      0.2%      0.0%      2.9%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     96.9%
+
+07:16:16          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:16:26         0.60      0.20      0.40      0.00     48.80      6.40      0.00
+
+07:16:16    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:16:26       601.8M    668.4M    157.8M     16.2%     20.3M    142.2M    357.7M     36.7%     86.1M    174.8M     36.0k     94.0M     53.5M      2.0M      2.9M      7.6M
+
+07:16:16      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:16:26            0       129      0.00      0.00      0.00         0
+
+07:16:16     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:16:26         0.0%      0.0%      0.0%      0.3%
+
+07:16:16      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:16:26         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:16:16     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:16:26         0.0%      0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%
+
+07:16:26        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:16:36        all      0.2%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%      0.0%     99.7%
+
+07:16:26          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:16:36         0.30      0.00      0.30      0.00      0.00      4.00      0.00
+
+07:16:26    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:16:36       601.7M    668.4M    157.8M     16.2%     20.3M    142.2M    357.7M     36.7%     86.1M    174.8M     36.0k     94.0M     53.6M      2.0M      2.9M      7.6M
+
+07:16:26      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:16:36            0       129      0.00      0.00      0.00         0
+
+07:16:26     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:16:36         0.0%      0.0%      0.0%      0.1%
+
+07:16:26      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:16:36         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:16:26     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:16:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:16:36        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:16:46        all      0.2%      0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%     99.7%
+
+07:16:36          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:16:46         0.80      0.00      0.80      0.00      0.00     17.60      0.00
+
+07:16:36    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:16:46       601.4M    668.1M    158.1M     16.2%     20.3M    142.2M    357.7M     36.7%     86.1M    174.9M     28.0k     94.1M     53.6M      2.0M      3.0M      7.6M
+
+07:16:36      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:16:46            0       129      0.00      0.00      0.00         0
+
+07:16:36     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:16:46         0.0%      0.0%      0.0%      0.1%
+
+07:16:36      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:16:46         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:16:36     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:16:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:16:46        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:16:56        all      0.2%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.7%
+
+07:16:46          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:16:56         0.40      0.00      0.40      0.00      0.00      7.20      0.00
+
+07:16:46    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:16:56       601.4M    668.2M    158.0M     16.2%     20.3M    142.2M    357.7M     36.7%     86.1M    174.9M     56.0k     94.1M     53.6M      2.0M      3.0M      7.6M
+
+07:16:46      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:16:56            0       129      0.00      0.00      0.00         0
+
+07:16:46     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:16:56         0.0%      0.0%      0.0%      0.1%
+
+07:16:46      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:16:56         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:16:46     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:16:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:16:56        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:17:06        all      0.3%      0.0%      0.1%      0.4%      0.0%      0.0%      0.0%      0.0%      0.0%     99.3%
+
+07:16:56          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:17:06         3.30      2.80      0.50      0.00    157.60     15.20      0.00
+
+07:16:56    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:17:06       600.7M    668.2M    157.9M     16.2%     20.5M    142.9M    357.7M     36.7%     87.1M    174.8M    268.0k     94.1M     53.7M      2.0M      3.0M      7.6M
+
+07:16:56      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:17:06            0       129      0.07      0.02      0.00         0
+
+07:16:56     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:17:06         0.0%      0.0%      0.0%      0.1%
+
+07:16:56      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:17:06         0.4%      0.1%      0.1%      0.6%      0.2%      0.1%      0.1%      0.6%
+
+07:16:56     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:17:06         0.0%      0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%
+
+07:17:06        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:17:16        all      0.2%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:17:06          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:17:16         1.40      0.00      1.40      0.00      0.00     13.60      0.00
+
+07:17:06    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:17:16       600.6M    668.1M    157.9M     16.2%     20.5M    142.9M    357.7M     36.7%     87.1M    174.8M    208.0k     94.2M     53.8M      2.0M      3.0M      7.6M
+
+07:17:06      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:17:16            0       129      0.06      0.02      0.00         0
+
+07:17:06     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:17:16         0.0%      0.0%      0.0%      0.1%
+
+07:17:06      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:17:16         0.1%      0.1%      0.1%      0.0%      0.1%      0.1%      0.1%      0.0%
+
+07:17:06     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:17:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:17:16        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:17:26        all      0.1%      0.0%      0.2%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.6%
+
+07:17:16          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:17:26         0.80      0.10      0.70      0.00     16.80     19.20      0.00
+
+07:17:16    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:17:26       600.7M    668.3M    157.8M     16.2%     20.5M    143.0M    357.7M     36.7%     87.1M    174.9M    220.0k     94.2M     53.7M      2.0M      3.0M      7.6M
+
+07:17:16      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:17:26            1       130      0.05      0.01      0.00         0
+
+07:17:16     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:17:26         0.0%      0.0%      0.0%      0.1%
+
+07:17:16      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:17:26         0.0%      0.1%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:17:16     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:17:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:17:26        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:17:36        all      0.2%      0.0%      0.1%      0.2%      0.0%      0.0%      0.0%      0.0%      0.0%     99.6%
+
+07:17:26          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:17:36         4.30      0.00      4.30      0.00      0.00     41.60      0.00
+
+07:17:26    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:17:36       600.7M    668.3M    157.7M     16.2%     20.5M    143.0M    357.7M     36.7%     87.2M    174.9M     56.0k     94.2M     53.7M      2.1M      3.0M      7.6M
+
+07:17:26      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:17:36            0       131      0.12      0.03      0.01         0
+
+07:17:26     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:17:36         0.0%      0.0%      0.0%      0.1%
+
+07:17:26      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:17:36         0.1%      0.1%      0.1%      0.2%      0.1%      0.1%      0.1%      0.2%
+
+07:17:26     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:17:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:17:36        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:17:46        all      0.1%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%      0.0%     99.6%
+
+07:17:36          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:17:46         0.40      0.00      0.40      0.00      0.00      6.40      0.00
+
+07:17:36    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:17:46       600.6M    668.2M    157.8M     16.2%     20.5M    143.0M    357.7M     36.7%     87.2M    175.0M     60.0k     94.3M     53.8M      2.1M      3.0M      7.6M
+
+07:17:36      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:17:46            0       131      0.10      0.03      0.01         0
+
+07:17:36     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:17:46         0.0%      0.0%      0.0%      0.1%
+
+07:17:36      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:17:46         0.1%      0.1%      0.1%      0.0%      0.0%      0.1%      0.1%      0.0%
+
+07:17:36     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:17:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:17:46        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:17:56        all      0.2%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:17:46          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:17:56         1.10      0.00      1.10      0.00      0.00     10.40      0.00
+
+07:17:46    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:17:56       600.6M    668.3M    157.7M     16.2%     20.5M    143.0M    357.7M     36.7%     87.2M    175.0M     32.0k     94.3M     53.8M      2.1M      3.0M      7.6M
+
+07:17:46      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:17:56            0       131      0.08      0.03      0.01         0
+
+07:17:46     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:17:56         0.0%      0.0%      0.0%      0.1%
+
+07:17:46      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:17:56         0.0%      0.1%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:17:46     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:17:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:17:56        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:18:06        all      0.2%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.6%
+
+07:17:56          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:18:06         0.60      0.00      0.60      0.00      0.00     16.80      0.00
+
+07:17:56    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:18:06       600.6M    668.3M    157.7M     16.2%     20.5M    143.0M    357.7M     36.7%     87.2M    175.0M     32.0k     94.3M     53.8M      2.1M      3.0M      7.6M
+
+07:17:56      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:18:06            0       131      0.07      0.03      0.00         0
+
+07:17:56     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:18:06         0.0%      0.0%      0.0%      0.1%
+
+07:17:56      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:18:06         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:17:56     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:18:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:18:06        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:18:16        all      0.2%      0.0%      0.0%      0.0%      0.1%      0.0%      0.1%      0.0%      0.0%     99.7%
+
+07:18:06          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:18:16         0.40      0.00      0.40      0.00      0.00      7.20      0.00
+
+07:18:06    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:18:16       600.6M    668.3M    157.7M     16.2%     20.6M    143.0M    357.7M     36.7%     87.2M    175.2M     48.0k     94.5M     53.8M      2.1M      3.0M      7.6M
+
+07:18:06      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:18:16            1       131      0.06      0.03      0.00         0
+
+07:18:06     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:18:16         0.0%      0.0%      0.0%      0.1%
+
+07:18:06      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:18:16         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:18:06     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:18:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:18:16        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:18:26        all      0.3%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.6%
+
+07:18:16          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:18:26         1.00      0.00      1.00      0.00      0.00      9.59      0.00
+
+07:18:16    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:18:26       599.9M    668.4M    158.2M     16.2%     20.6M    143.0M    357.7M     36.7%     87.2M    176.0M     24.0k     95.3M     54.0M      2.1M      3.0M      7.6M
+
+07:18:16      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:18:26            0       131      0.05      0.02      0.00         0
+
+07:18:16     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:18:26         0.0%      0.0%      0.0%      0.1%
+
+07:18:16      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:18:26         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:18:16     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:18:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:18:26        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:18:36        all      0.4%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.5%
+
+07:18:26          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:18:36         0.50      0.00      0.50      0.00      0.00      7.20      0.00
+
+07:18:26    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:18:36       599.7M    668.2M    158.4M     16.2%     20.6M    143.0M    358.0M     36.7%     87.3M    176.2M     36.0k     95.5M     53.9M      2.1M      3.0M      7.6M
+
+07:18:26      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:18:36            0       131      0.04      0.02      0.00         0
+
+07:18:26     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:18:36         0.0%      0.0%      0.0%      0.1%
+
+07:18:26      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:18:36         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%
+
+07:18:26     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:18:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:18:36        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:18:46        all      0.3%      0.0%      0.1%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%     99.6%
+
+07:18:36          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:18:46         0.40      0.00      0.40      0.00      0.00     12.00      0.00
+
+07:18:36    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:18:46       599.7M    668.2M    158.3M     16.2%     20.6M    143.0M    358.2M     36.7%     87.3M    176.4M     36.0k     95.7M     54.0M      2.1M      3.0M      7.6M
+
+07:18:36      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:18:46            0       131      0.03      0.02      0.00         0
+
+07:18:36     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:18:46         0.0%      0.0%      0.0%      0.1%
+
+07:18:36      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:18:46         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:18:36     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:18:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:18:46        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:18:56        all      0.4%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.6%
+
+07:18:46          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:18:56         0.40      0.00      0.40      0.00      0.00      6.40      0.00
+
+07:18:46    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:18:56       599.2M    667.8M    158.8M     16.3%     20.6M    143.0M    358.3M     36.7%     87.3M    176.8M     56.0k     96.1M     54.0M      2.1M      3.0M      7.6M
+
+07:18:46      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:18:56            0       131      0.03      0.02      0.00         0
+
+07:18:46     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:18:56         0.0%      0.0%      0.0%      0.1%
+
+07:18:46      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:18:56         0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:18:46     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:18:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:18:56        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:19:06        all      0.5%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.5%
+
+07:18:56          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:19:06         0.80      0.00      0.80      0.00      0.00      8.00      0.00
+
+07:18:56    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:19:06       598.7M    667.3M    159.3M     16.3%     20.6M    143.0M    358.5M     36.7%     87.3M    177.0M     36.0k     96.3M     54.0M      2.1M      3.0M      7.6M
+
+07:18:56      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:19:06            0       131      0.02      0.02      0.00         0
+
+07:18:56     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:19:06         0.0%      0.0%      0.0%      0.1%
+
+07:18:56      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:19:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:18:56     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:19:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:19:06        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:19:16        all      0.4%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%      0.0%     99.4%
+
+07:19:06          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:19:16         0.60      0.00      0.60      0.00      0.00      9.60      0.00
+
+07:19:06    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:19:16       598.2M    666.9M    159.8M     16.4%     20.6M    143.1M    358.7M     36.8%     87.3M    177.4M     44.0k     96.7M     53.9M      2.1M      3.0M      7.6M
+
+07:19:06      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:19:16            0       131      0.02      0.02      0.00         0
+
+07:19:06     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:19:16         0.0%      0.0%      0.0%      0.1%
+
+07:19:06      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:19:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:19:06     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:19:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:19:16        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:19:26        all      0.2%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:19:16          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:19:26         0.50      0.00      0.50      0.00      0.00     12.00      0.00
+
+07:19:16    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:19:26       598.2M    666.9M    159.7M     16.4%     20.6M    143.1M    358.7M     36.8%     87.3M    177.5M     28.0k     96.8M     54.0M      2.1M      3.0M      7.6M
+
+07:19:16      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:19:26            0       131      0.02      0.02      0.00         0
+
+07:19:16     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:19:26         0.0%      0.0%      0.0%      0.1%
+
+07:19:16      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:19:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:19:16     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:19:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:19:26        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:19:36        all      0.3%      0.0%      0.0%      0.0%      0.0%      0.0%      0.1%      0.0%      0.0%     99.5%
+
+07:19:26          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:19:36         1.10      0.00      1.10      0.00      0.00     15.20      0.00
+
+07:19:26    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:19:36       598.1M    666.7M    160.0M     16.4%     20.6M    143.1M    358.7M     36.8%     87.3M    177.6M     24.0k     96.9M     53.8M      2.1M      3.0M      7.6M
+
+07:19:26      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:19:36            0       131      0.01      0.02      0.00         0
+
+07:19:26     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:19:36         0.0%      0.0%      0.0%      0.1%
+
+07:19:26      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:19:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:19:26     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:19:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:19:36        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:19:46        all      0.4%      0.0%      0.2%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.5%
+
+07:19:36          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:19:46         0.20      0.00      0.20      0.00      0.00      3.20      0.00
+
+07:19:36    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:19:46       597.5M    666.1M    160.5M     16.4%     20.7M    143.1M    358.9M     36.8%     87.3M    177.9M     32.0k     97.2M     54.0M      2.1M      3.0M      7.6M
+
+07:19:36      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:19:46            0       131      0.01      0.02      0.00         0
+
+07:19:36     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:19:46         0.0%      0.0%      0.0%      0.1%
+
+07:19:36      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:19:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:19:36     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:19:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:19:46        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:19:56        all      0.2%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:19:46          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:19:56         0.50      0.00      0.50      0.00      0.00      7.20      0.00
+
+07:19:46    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:19:56       597.5M    666.1M    160.5M     16.4%     20.7M    143.1M    358.9M     36.8%     87.3M    177.9M     36.0k     97.2M     53.9M      2.1M      3.0M      7.6M
+
+07:19:46      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:19:56            0       131      0.01      0.02      0.00         0
+
+07:19:46     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:19:56         0.0%      0.0%      0.0%      0.1%
+
+07:19:46      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:19:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:19:46     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:19:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:19:56        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:20:06        all      0.2%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:19:56          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:20:06         1.10      0.00      1.10      0.00      0.00     18.40      0.00
+
+07:19:56    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:20:06       597.4M    666.1M    160.4M     16.4%     20.7M    143.1M    358.9M     36.8%     87.4M    178.0M      4.0k     97.3M     54.0M      2.1M      3.0M      7.6M
+
+07:19:56      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:20:06            0       131      0.01      0.01      0.00         0
+
+07:19:56     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:20:06         0.0%      0.0%      0.0%      0.1%
+
+07:19:56      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:20:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:19:56     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:20:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:20:06        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:20:16        all      0.1%      0.0%      0.2%      0.0%      0.0%      0.0%      0.1%      0.0%      0.0%     99.7%
+
+07:20:06          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:20:16         0.40      0.00      0.40      0.00      0.00      6.40      0.00
+
+07:20:06    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:20:16       597.5M    666.2M    160.5M     16.4%     20.7M    143.1M    358.9M     36.8%     87.4M    178.2M     28.0k     97.4M     54.0M      2.1M      3.0M      7.6M
+
+07:20:06      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:20:16            0       131      0.01      0.01      0.00         0
+
+07:20:06     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:20:16         0.0%      0.0%      0.0%      0.1%
+
+07:20:06      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:20:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:20:06     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:20:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:20:16        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:20:26        all      0.2%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.7%
+
+07:20:16          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:20:26         0.20      0.00      0.20      0.00      0.00      3.20      0.00
+
+07:20:16    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:20:26       597.5M    666.2M    160.4M     16.4%     20.7M    143.1M    359.1M     36.8%     87.4M    178.1M     36.0k     97.3M     54.0M      2.1M      3.0M      7.6M
+
+07:20:16      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:20:26            0       131      0.00      0.01      0.00         0
+
+07:20:16     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:20:26         0.0%      0.0%      0.0%      0.1%
+
+07:20:16      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:20:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:20:16     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:20:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:20:26        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:20:36        all      0.2%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:20:26          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:20:36         0.50      0.00      0.50      0.00      0.00      7.20      0.00
+
+07:20:26    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:20:36       597.5M    666.2M    160.4M     16.4%     20.7M    143.1M    359.1M     36.8%     87.4M    178.1M     36.0k     97.4M     53.9M      2.1M      3.0M      7.6M
+
+07:20:26      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:20:36            0       131      0.00      0.01      0.00         0
+
+07:20:26     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:20:36         0.0%      0.0%      0.0%      0.1%
+
+07:20:26      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:20:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:20:26     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:20:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:20:36        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:20:46        all      0.2%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:20:36          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:20:46         0.60      0.00      0.60      0.00      0.00     12.00      0.00
+
+07:20:36    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:20:46       597.4M    666.2M    160.4M     16.4%     20.7M    143.1M    359.1M     36.8%     87.4M    178.2M     24.0k     97.4M     54.0M      2.1M      3.0M      7.6M
+
+07:20:36      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:20:46            0       131      0.00      0.01      0.00         0
+
+07:20:36     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:20:46         0.0%      0.0%      0.0%      0.1%
+
+07:20:36      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:20:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:20:36     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:20:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:20:46        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:20:56        all      0.2%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.7%
+
+07:20:46          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:20:56         0.40      0.00      0.40      0.00      0.00      9.60      0.00
+
+07:20:46    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:20:56       597.4M    666.2M    160.4M     16.4%     20.7M    143.1M    359.1M     36.8%     87.4M    178.2M     56.0k     97.5M     54.0M      2.1M      3.0M      7.6M
+
+07:20:46      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:20:56            0       131      0.00      0.01      0.00         0
+
+07:20:46     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:20:56         0.0%      0.0%      0.0%      0.1%
+
+07:20:46      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:20:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:20:46     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:20:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:20:56        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:21:06        all      0.1%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:20:56          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:21:06         0.20      0.00      0.20      0.00      0.00      3.20      0.00
+
+07:20:56    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:21:06       597.4M    666.2M    160.3M     16.4%     20.8M    143.1M    359.1M     36.8%     87.4M    178.3M     60.0k     97.5M     54.0M      2.1M      3.0M      7.6M
+
+07:20:56      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:21:06            0       131      0.00      0.01      0.00         0
+
+07:20:56     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:21:06         0.0%      0.0%      0.0%      0.1%
+
+07:20:56      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:21:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:20:56     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:21:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:21:06        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:21:16        all      0.1%      0.0%      0.2%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.7%
+
+07:21:06          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:21:16         1.30      0.00      1.30      0.00      0.00     13.60      0.00
+
+07:21:06    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:21:16       597.4M    666.2M    160.3M     16.4%     20.8M    143.1M    359.1M     36.8%     87.5M    178.4M     32.0k     97.6M     54.0M      2.1M      3.0M      7.6M
+
+07:21:06      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:21:16            0       131      0.00      0.01      0.00         0
+
+07:21:06     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:21:16         0.0%      0.0%      0.0%      0.1%
+
+07:21:06      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:21:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:21:06     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:21:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:21:16        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:21:26        all      0.2%      0.0%      0.1%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%     99.7%
+
+07:21:16          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:21:26         0.70      0.00      0.70      0.00      0.00     20.80      0.00
+
+07:21:16    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:21:26       597.4M    666.2M    160.3M     16.4%     20.8M    143.1M    359.1M     36.8%     87.5M    178.4M     44.0k     97.6M     54.0M      2.0M      3.0M      7.6M
+
+07:21:16      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:21:26            0       129      0.00      0.01      0.00         0
+
+07:21:16     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:21:26         0.0%      0.0%      0.0%      0.1%
+
+07:21:16      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:21:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:21:16     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:21:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:21:26        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:21:36        all      0.3%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.7%
+
+07:21:26          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:21:36         0.20      0.00      0.20      0.00      0.00      3.20      0.00
+
+07:21:26    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:21:36       597.4M    666.3M    160.3M     16.4%     20.8M    143.1M    359.1M     36.8%     87.5M    178.4M     56.0k     97.6M     54.0M      2.0M      3.0M      7.6M
+
+07:21:26      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:21:36            0       129      0.00      0.01      0.00         0
+
+07:21:26     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:21:36         0.0%      0.0%      0.0%      0.1%
+
+07:21:26      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:21:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:21:26     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:21:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:21:36        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:21:46        all      0.2%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.7%
+
+07:21:36          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:21:46         1.20      0.00      1.20      0.00      0.00     14.40      0.00
+
+07:21:36    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:21:46       597.3M    666.2M    160.3M     16.4%     20.8M    143.1M    359.1M     36.8%     87.5M    178.5M     20.0k     97.7M     54.1M      2.0M      3.0M      7.6M
+
+07:21:36      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:21:46            0       129      0.00      0.00      0.00         0
+
+07:21:36     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:21:46         0.0%      0.0%      0.0%      0.1%
+
+07:21:36      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:21:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:21:36     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:21:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:21:46        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:21:56        all      0.1%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:21:46          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:21:56         0.30      0.00      0.30      0.00      0.00      4.00      0.00
+
+07:21:46    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:21:56       597.5M    666.4M    160.3M     16.4%     20.8M    143.2M    359.1M     36.8%     87.5M    178.5M     32.0k     97.7M     53.9M      2.0M      3.0M      7.6M
+
+07:21:46      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:21:56            0       129      0.00      0.00      0.00         0
+
+07:21:46     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:21:56         0.0%      0.0%      0.0%      0.1%
+
+07:21:46      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:21:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:21:46     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:21:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:21:56        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:22:06        all      0.2%      0.0%      0.1%      0.1%      0.0%      0.0%      0.1%      0.0%      0.0%     99.7%
+
+07:21:56          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:22:06         0.80      0.00      0.80      0.00      0.00     16.00      0.00
+
+07:21:56    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:22:06       597.2M    666.1M    160.5M     16.4%     20.8M    143.2M    359.1M     36.8%     87.5M    178.6M     32.0k     97.8M     54.0M      2.0M      3.0M      7.6M
+
+07:21:56      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:22:06            0       129      0.00      0.00      0.00         0
+
+07:21:56     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:22:06         0.0%      0.0%      0.0%      0.1%
+
+07:21:56      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:22:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:21:56     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:22:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:22:06        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:22:16        all      0.2%      0.0%      0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:22:06          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:22:16         0.40      0.00      0.40      0.00      0.00      9.60      0.00
+
+07:22:06    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:22:16       597.1M    666.0M    160.5M     16.4%     20.8M    143.2M    359.1M     36.8%     87.5M    178.6M     48.0k     97.8M     54.1M      2.0M      3.0M      7.6M
+
+07:22:06      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:22:16            0       129      0.00      0.00      0.00         0
+
+07:22:06     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:22:16         0.0%      0.0%      0.0%      0.1%
+
+07:22:06      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:22:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:22:06     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:22:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:22:16        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:22:26        all      0.1%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:22:16          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:22:26         1.00      0.00      1.00      0.00      0.00      9.60      0.00
+
+07:22:16    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:22:26       597.1M    666.1M    160.5M     16.4%     20.9M    143.2M    359.1M     36.8%     87.5M    178.6M     24.0k     97.8M     54.0M      2.0M      3.0M      7.6M
+
+07:22:16      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:22:26            0       129      0.00      0.00      0.00         0
+
+07:22:16     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:22:26         0.0%      0.0%      0.0%      0.1%
+
+07:22:16      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:22:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:22:16     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:22:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:22:26        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:22:36        all      0.2%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.6%
+
+07:22:26          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:22:36         0.50      0.00      0.50      0.00      0.00      7.20      0.00
+
+07:22:26    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:22:36       597.1M    666.1M    160.4M     16.4%     20.9M    143.2M    359.1M     36.8%     87.6M    178.7M     36.0k     97.9M     54.0M      2.0M      3.0M      7.6M
+
+07:22:26      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:22:36            0       127      0.00      0.00      0.00         0
+
+07:22:26     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:22:36         0.0%      0.0%      0.0%      0.1%
+
+07:22:26      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:22:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:22:26     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:22:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:22:36        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:22:46        all      0.2%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:22:36          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:22:46         0.40      0.00      0.40      0.00      0.00     12.00      0.00
+
+07:22:36    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:22:46       597.2M    666.2M    160.4M     16.4%     20.9M    143.2M    359.1M     36.8%     87.6M    178.7M     32.0k     97.9M     53.9M      2.0M      3.0M      7.6M
+
+07:22:36      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:22:46            0       127      0.00      0.00      0.00         0
+
+07:22:36     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:22:46         0.0%      0.0%      0.0%      0.1%
+
+07:22:36      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:22:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:22:36     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:22:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:22:46        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:22:56        all      0.2%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.7%
+
+07:22:46          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:22:56         0.40      0.00      0.40      0.00      0.00      6.40      0.00
+
+07:22:46    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:22:56       597.3M    666.3M    160.4M     16.4%     20.9M    143.2M    359.1M     36.8%     87.6M    178.8M     52.0k     98.0M     53.9M      2.0M      3.0M      7.6M
+
+07:22:46      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:22:56            0       127      0.00      0.00      0.00         0
+
+07:22:46     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:22:56         0.0%      0.0%      0.0%      0.1%
+
+07:22:46      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:22:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:22:46     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:22:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:22:56        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:23:06        all      0.3%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.7%
+
+07:22:56          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:23:06         0.70      0.00      0.70      0.00      0.00      7.20      0.00
+
+07:22:56    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:23:06       597.2M    666.2M    160.5M     16.4%     20.9M    143.2M    359.1M     36.8%     87.6M    178.8M     36.0k     98.0M     53.9M      2.0M      3.0M      7.6M
+
+07:22:56      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:23:06            0       127      0.00      0.00      0.00         0
+
+07:22:56     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:23:06         0.0%      0.0%      0.0%      0.1%
+
+07:22:56      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:23:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:22:56     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:23:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:23:06        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:23:16        all      0.2%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.7%
+
+07:23:06          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:23:16         0.50      0.00      0.50      0.00      0.00     10.40      0.00
+
+07:23:06    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:23:16       597.2M    666.1M    160.5M     16.4%     20.9M    143.2M    359.2M     36.8%     87.6M    178.9M     48.0k     98.0M     53.9M      2.0M      3.0M      7.6M
+
+07:23:06      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:23:16            0       127      0.00      0.00      0.00         0
+
+07:23:06     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:23:16         0.0%      0.0%      0.0%      0.1%
+
+07:23:06      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:23:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:23:06     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:23:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:23:16        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:23:26        all      0.1%      0.0%      0.1%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:23:16          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:23:26         0.40      0.00      0.40      0.00      0.00     12.00      0.00
+
+07:23:16    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:23:26       597.2M    666.2M    160.4M     16.4%     20.9M    143.2M    359.2M     36.8%     87.6M    179.0M     36.0k     98.1M     53.9M      2.0M      3.0M      7.6M
+
+07:23:16      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:23:26            0       127      0.00      0.00      0.00         0
+
+07:23:16     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:23:26         0.0%      0.0%      0.0%      0.0%
+
+07:23:16      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:23:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:23:16     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:23:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:23:26        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:23:36        all      0.2%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.7%
+
+07:23:26          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:23:36         1.10      0.00      1.10      0.00      0.00     16.00      0.00
+
+07:23:26    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:23:36       597.2M    666.2M    160.4M     16.4%     20.9M    143.2M    359.2M     36.8%     87.6M    179.0M     24.0k     98.1M     53.9M      2.0M      3.0M      7.6M
+
+07:23:26      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:23:36            1       127      0.00      0.00      0.00         0
+
+07:23:26     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:23:36         0.0%      0.0%      0.0%      0.1%
+
+07:23:26      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:23:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:23:26     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:23:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:23:36        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:23:46        all      0.1%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:23:36          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:23:46         0.20      0.00      0.20      0.00      0.00      3.20      0.00
+
+07:23:36    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:23:46       597.1M    666.2M    160.4M     16.4%     20.9M    143.2M    359.2M     36.8%     87.6M    179.0M     32.0k     98.1M     53.9M      2.0M      3.0M      7.6M
+
+07:23:36      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:23:46            1       127      0.00      0.00      0.00         0
+
+07:23:36     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:23:46         0.0%      0.0%      0.0%      0.1%
+
+07:23:36      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:23:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:23:36     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:23:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:23:46        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:23:56        all      0.1%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%      0.0%     99.8%
+
+07:23:46          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:23:56         0.50      0.00      0.50      0.00      0.00      7.20      0.00
+
+07:23:46    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:23:56       597.1M    666.2M    160.4M     16.4%     21.0M    143.2M    359.2M     36.8%     87.6M    179.0M     36.0k     98.2M     53.9M      2.0M      3.0M      7.6M
+
+07:23:46      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:23:56            0       128      0.00      0.00      0.00         0
+
+07:23:46     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:23:56         0.0%      0.0%      0.0%      0.1%
+
+07:23:46      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:23:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:23:46     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:23:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:23:56        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:24:06        all      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.1%      0.0%      0.0%     99.9%
+
+07:23:56          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:24:06         1.00      0.00      1.00      0.00      0.00     16.80      0.00
+
+07:23:56    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:24:06       597.2M    666.2M    160.3M     16.4%     21.0M    143.2M    359.2M     36.8%     87.7M    179.0M      4.0k     98.2M     54.0M      2.0M      3.0M      7.6M
+
+07:23:56      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:24:06            0       128      0.00      0.00      0.00         0
+
+07:23:56     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:24:06         0.0%      0.0%      0.0%      0.1%
+
+07:23:56      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:24:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:23:56     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:24:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:24:06        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:24:16        all      0.1%      0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:24:06          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:24:16         0.40      0.00      0.40      0.00      0.00      6.40      0.00
+
+07:24:06    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:24:16       597.2M    666.3M    160.4M     16.4%     21.0M    143.2M    359.2M     36.8%     87.7M    179.1M     24.0k     98.2M     53.9M      2.0M      3.0M      7.6M
+
+07:24:06      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:24:16            0       128      0.00      0.00      0.00         0
+
+07:24:06     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:24:16         0.0%      0.0%      0.0%      0.1%
+
+07:24:06      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:24:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:24:06     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:24:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:24:16        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:24:26        all      0.2%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.7%
+
+07:24:16          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:24:26         0.20      0.00      0.20      0.00      0.00      3.20      0.00
+
+07:24:16    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:24:26       596.9M    666.1M    160.5M     16.5%     21.0M    143.2M    359.2M     36.8%     87.7M    179.1M     32.0k     98.2M     53.9M      2.0M      3.0M      7.6M
+
+07:24:16      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:24:26            0       128      0.00      0.00      0.00         0
+
+07:24:16     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:24:26         0.0%      0.0%      0.0%      0.1%
+
+07:24:16      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:24:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:24:16     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:24:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:24:26        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:24:36        all      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.9%
+
+07:24:26          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:24:36         0.50      0.00      0.50      0.00      0.00      7.20      0.00
+
+07:24:26    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:24:36       596.4M    665.5M    161.1M     16.5%     21.0M    143.2M    359.2M     36.8%     87.7M    179.2M     32.0k     98.2M     53.9M      2.0M      3.0M      7.6M
+
+07:24:26      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:24:36            0       128      0.00      0.00      0.00         0
+
+07:24:26     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:24:36         0.0%      0.0%      0.0%      0.0%
+
+07:24:26      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:24:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:24:26     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:24:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:24:36        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:24:46        all      0.1%      0.0%      0.1%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:24:36          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:24:46         0.60      0.00      0.60      0.00      0.00     11.20      0.00
+
+07:24:36    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:24:46       596.4M    665.5M    161.1M     16.5%     21.0M    143.2M    359.2M     36.8%     87.7M    179.2M     24.0k     98.2M     53.9M      2.0M      3.0M      7.6M
+
+07:24:36      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:24:46            0       128      0.00      0.00      0.00         0
+
+07:24:36     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:24:46         0.0%      0.0%      0.0%      0.1%
+
+07:24:36      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:24:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:24:36     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:24:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:24:46        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:24:56        all      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%    100.0%
+
+07:24:46          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:24:56         0.40      0.00      0.40      0.00      0.00      9.60      0.00
+
+07:24:46    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:24:56       596.3M    665.5M    161.0M     16.5%     21.0M    143.2M    359.2M     36.8%     87.7M    179.2M     52.0k     98.3M     54.0M      2.0M      3.0M      7.6M
+
+07:24:46      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:24:56            0       128      0.00      0.00      0.00         0
+
+07:24:46     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:24:56         0.0%      0.0%      0.0%      0.1%
+
+07:24:46      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:24:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:24:46     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:24:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:24:56        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:25:06        all      0.3%      0.0%      0.2%      0.3%      0.0%      0.0%      0.0%      0.0%      0.0%     99.3%
+
+07:24:56          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:25:06         1.80      1.30      0.50      0.00     51.20     16.00      0.00
+
+07:24:56    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:25:06       595.3M    664.7M    162.1M     16.6%     21.2M    143.4M    359.2M     36.8%     89.0M    178.2M    472.0k     98.3M     53.7M      2.0M      3.0M      7.6M
+
+07:24:56      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:25:06            0       129      0.00      0.00      0.00         0
+
+07:24:56     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:25:06         0.0%      0.0%      0.0%      0.1%
+
+07:24:56      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:25:06         0.1%      0.0%      0.0%      0.3%      0.1%      0.0%      0.0%      0.2%
+
+07:24:56     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:25:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:25:06        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:25:16        all      0.1%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:25:06          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:25:16         1.40      0.00      1.40      0.00      0.00     14.40      0.00
+
+07:25:06    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:25:16       595.3M    664.7M    162.0M     16.6%     21.2M    143.4M    359.2M     36.8%     89.0M    178.2M    420.0k     98.2M     53.7M      2.0M      3.0M      7.6M
+
+07:25:06      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:25:16            0       129      0.00      0.00      0.00         0
+
+07:25:06     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:25:16         0.0%      0.0%      0.0%      0.0%
+
+07:25:06      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:25:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:25:06     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:25:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:25:16        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:25:26        all      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.9%
+
+07:25:16          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:25:26         0.60      0.00      0.60      0.00      0.00     19.20      0.00
+
+07:25:16    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:25:26       595.3M    664.7M    162.0M     16.6%     21.2M    143.4M    359.2M     36.8%     89.0M    178.2M    436.0k     98.2M     53.8M      2.0M      3.0M      7.6M
+
+07:25:16      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:25:26            0       129      0.00      0.00      0.00         0
+
+07:25:16     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:25:26         0.0%      0.0%      0.0%      0.0%
+
+07:25:16      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:25:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:25:16     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:25:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:25:26        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:25:36        all      0.1%      0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:25:26          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:25:36         8.60      0.00      8.60      0.00      0.00     91.20      0.00
+
+07:25:26    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:25:36       595.4M    664.9M    162.0M     16.6%     21.2M    143.4M    359.2M     36.8%     89.0M    178.2M     56.0k     98.2M     53.6M      2.0M      3.0M      7.6M
+
+07:25:26      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:25:36            0       130      0.00      0.00      0.00         0
+
+07:25:26     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:25:36         0.0%      0.0%      0.0%      0.0%
+
+07:25:26      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:25:36         0.0%      0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%
+
+07:25:26     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:25:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:25:36        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:25:46        all      0.2%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:25:36          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:25:46         0.60      0.00      0.60      0.00      0.00     14.40      0.00
+
+07:25:36    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:25:46       595.4M    664.9M    162.0M     16.6%     21.2M    143.4M    359.2M     36.8%     89.0M    178.2M     60.0k     98.2M     53.6M      2.0M      3.0M      7.6M
+
+07:25:36      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:25:46            0       130      0.00      0.00      0.00         0
+
+07:25:36     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:25:46         0.0%      0.0%      0.0%      0.1%
+
+07:25:36      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:25:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:25:36     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:25:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:25:46        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:25:56        all      0.1%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%      0.0%     99.8%
+
+07:25:46          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:25:56         1.40      0.00      1.40      0.00      0.00     17.60      0.00
+
+07:25:46    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:25:56       595.4M    664.9M    161.9M     16.6%     21.2M    143.4M    359.2M     36.8%     89.1M    178.3M     20.0k     98.2M     53.7M      2.0M      3.0M      7.6M
+
+07:25:46      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:25:56            0       130      0.00      0.00      0.00         0
+
+07:25:46     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:25:56         0.0%      0.0%      0.0%      0.0%
+
+07:25:46      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:25:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:25:46     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:25:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:25:56        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:26:06        all      0.1%      0.0%      0.1%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:25:56          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:26:06         0.60      0.00      0.60      0.00      0.00     14.40      0.00
+
+07:25:56    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:26:06       595.7M    665.2M    161.9M     16.6%     21.2M    143.4M    359.2M     36.8%     89.1M    178.3M     32.0k     98.2M     53.4M      2.0M      3.0M      7.6M
+
+07:25:56      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:26:06            0       130      0.00      0.00      0.00         0
+
+07:25:56     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:26:06         0.0%      0.0%      0.0%      0.1%
+
+07:25:56      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:26:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:25:56     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:26:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:26:06        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:26:16        all      0.1%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:26:06          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:26:16         0.60      0.00      0.60      0.00      0.00      7.20      0.00
+
+07:26:06    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:26:16       595.7M    665.2M    161.9M     16.6%     21.2M    143.4M    359.2M     36.8%     89.1M    178.3M     28.0k     98.2M     53.4M      2.0M      3.0M      7.6M
+
+07:26:06      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:26:16            0       130      0.00      0.00      0.00         0
+
+07:26:06     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:26:16         0.0%      0.0%      0.0%      0.0%
+
+07:26:06      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:26:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:26:06     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:26:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:26:16        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:26:26        all      0.2%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:26:16          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:26:26         1.00      0.00      1.00      0.00      0.00     14.40      0.00
+
+07:26:16    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:26:26       595.6M    665.1M    161.9M     16.6%     21.2M    143.4M    359.2M     36.8%     89.1M    178.3M     28.0k     98.2M     53.4M      2.0M      3.0M      7.6M
+
+07:26:16      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:26:26            0       130      0.00      0.00      0.00         0
+
+07:26:16     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:26:26         0.0%      0.0%      0.0%      0.0%
+
+07:26:16      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:26:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:26:16     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:26:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:26:26        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:26:36        all      0.1%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.9%
+
+07:26:26          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:26:36         0.70      0.00      0.70      0.00      0.00     12.80      0.00
+
+07:26:26    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:26:36       595.6M    665.2M    161.9M     16.6%     21.3M    143.5M    359.2M     36.8%     89.1M    178.3M     28.0k     98.3M     53.4M      2.0M      3.0M      7.6M
+
+07:26:26      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:26:36            0       130      0.00      0.00      0.00         0
+
+07:26:26     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:26:36         0.0%      0.0%      0.0%      0.0%
+
+07:26:26      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:26:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:26:26     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:26:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:26:36        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:26:46        all      0.1%      0.0%      0.1%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:26:36          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:26:46         0.60      0.00      0.60      0.00      0.00     14.40      0.00
+
+07:26:36    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:26:46       595.7M    665.3M    161.9M     16.6%     21.3M    143.5M    359.2M     36.8%     89.1M    178.3M     32.0k     98.3M     53.3M      2.0M      3.0M      7.6M
+
+07:26:36      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:26:46            0       130      0.00      0.00      0.00         0
+
+07:26:36     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:26:46         0.0%      0.0%      0.0%      0.0%
+
+07:26:36      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:26:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:26:36     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:26:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:26:46        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:26:56        all      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.9%
+
+07:26:46          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:26:56         0.90      0.00      0.90      0.00      0.00     12.80      0.00
+
+07:26:46    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:26:56       595.7M    665.3M    161.8M     16.6%     21.3M    143.5M    359.2M     36.8%     89.1M    178.3M      0.0k     98.3M     53.3M      2.0M      3.0M      7.6M
+
+07:26:46      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:26:56            0       130      0.08      0.02      0.01         0
+
+07:26:46     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:26:56         0.0%      0.0%      0.0%      0.1%
+
+07:26:46      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:26:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:26:46     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:26:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:26:56        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:27:06        all      0.1%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%      0.0%     99.8%
+
+07:26:56          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:27:06         0.60      0.00      0.60      0.00      0.00     12.80      0.00
+
+07:26:56    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:27:06       595.7M    665.3M    161.8M     16.6%     21.3M    143.5M    359.2M     36.8%     89.1M    178.3M     36.0k     98.3M     53.3M      2.0M      3.0M      7.6M
+
+07:26:56      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:27:06            0       130      0.07      0.02      0.00         0
+
+07:26:56     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:27:06         0.0%      0.0%      0.0%      0.1%
+
+07:26:56      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:27:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:26:56     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:27:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:27:06        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:27:16        all      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.9%
+
+07:27:06          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:27:16         0.20      0.00      0.20      0.00      0.00      3.20      0.00
+
+07:27:06    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:27:16       595.7M    665.2M    161.8M     16.6%     21.3M    143.5M    359.2M     36.8%     89.1M    178.3M     48.0k     98.3M     53.3M      2.0M      3.0M      7.6M
+
+07:27:06      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:27:16            0       130      0.06      0.01      0.00         0
+
+07:27:06     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:27:16         0.0%      0.0%      0.0%      0.1%
+
+07:27:06      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:27:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:27:06     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:27:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:27:16        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:27:26        all      0.2%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:27:16          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:27:26         0.40      0.00      0.40      0.00      0.00      6.40      0.00
+
+07:27:16    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:27:26       595.7M    665.3M    161.8M     16.6%     21.3M    143.5M    359.3M     36.8%     89.2M    178.4M     56.0k     98.3M     53.4M      2.0M      3.0M      7.6M
+
+07:27:16      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:27:26            0       130      0.05      0.01      0.00         0
+
+07:27:16     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:27:26         0.0%      0.0%      0.0%      0.0%
+
+07:27:16      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:27:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:27:16     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:27:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:27:26        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:27:36        all      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.9%
+
+07:27:26          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:27:36         0.80      0.00      0.80      0.00      0.00      8.80      0.00
+
+07:27:26    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:27:36       595.7M    665.3M    161.8M     16.6%     21.3M    143.5M    359.3M     36.8%     89.2M    178.4M     32.0k     98.3M     53.3M      2.0M      3.0M      7.6M
+
+07:27:26      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:27:36            0       130      0.04      0.01      0.00         0
+
+07:27:26     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:27:36         0.0%      0.0%      0.0%      0.0%
+
+07:27:26      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:27:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:27:26     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:27:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:27:36        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:27:46        all      0.1%      0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:27:36          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:27:46         0.60      0.00      0.60      0.00      0.00     16.00      0.00
+
+07:27:36    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:27:46       595.7M    665.3M    161.8M     16.6%     21.3M    143.5M    359.3M     36.8%     89.2M    178.4M     28.0k     98.3M     53.3M      2.0M      3.0M      7.6M
+
+07:27:36      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:27:46            0       130      0.03      0.01      0.00         0
+
+07:27:36     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:27:46         0.0%      0.0%      0.0%      0.0%
+
+07:27:36      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:27:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:27:36     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:27:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:27:46        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:27:56        all      0.1%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.9%
+
+07:27:46          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:27:56         0.40      0.00      0.40      0.00      0.00      7.20      0.00
+
+07:27:46    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:27:56       595.7M    665.4M    161.8M     16.6%     21.4M    143.5M    359.3M     36.8%     89.2M    178.4M     48.0k     98.3M     53.3M      2.0M      3.0M      7.6M
+
+07:27:46      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:27:56            0       130      0.03      0.01      0.00         0
+
+07:27:46     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:27:56         0.0%      0.0%      0.0%      0.0%
+
+07:27:46      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:27:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:27:46     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:27:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:27:56        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:28:06        all      0.1%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.9%
+
+07:27:56          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:28:06         0.90      0.00      0.90      0.00      0.00      8.80      0.00
+
+07:27:56    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:28:06       595.8M    665.4M    161.7M     16.6%     21.4M    143.5M    359.3M     36.8%     89.2M    178.4M     24.0k     98.4M     53.3M      2.0M      3.0M      7.6M
+
+07:27:56      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:28:06            0       130      0.02      0.01      0.00         0
+
+07:27:56     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:28:06         0.0%      0.0%      0.0%      0.0%
+
+07:27:56      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:28:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:27:56     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:28:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:28:06        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:28:16        all      0.2%      0.0%      0.1%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%     99.7%
+
+07:28:06          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:28:16         0.50      0.00      0.50      0.00      0.00      7.20      0.00
+
+07:28:06    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:28:16       595.7M    665.4M    161.8M     16.6%     21.4M    143.5M    359.3M     36.8%     89.2M    178.4M     36.0k     98.4M     53.3M      2.0M      3.0M      7.6M
+
+07:28:06      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:28:16            0       130      0.02      0.01      0.00         0
+
+07:28:06     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:28:16         0.0%      0.0%      0.0%      0.0%
+
+07:28:06      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:28:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:28:06     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:28:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:28:16        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:28:26        all      0.1%      0.0%      0.1%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:28:16          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:28:26         0.40      0.00      0.40      0.00      0.00     12.80      0.00
+
+07:28:16    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:28:26       595.7M    665.4M    161.8M     16.6%     21.4M    143.5M    359.3M     36.8%     89.2M    178.4M     32.0k     98.4M     53.3M      2.0M      3.0M      7.6M
+
+07:28:16      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:28:26            0       130      0.02      0.01      0.00         0
+
+07:28:16     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:28:26         0.0%      0.0%      0.0%      0.1%
+
+07:28:16      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:28:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:28:16     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:28:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:28:26        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:28:36        all      0.1%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:28:26          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:28:36         0.40      0.00      0.40      0.00      0.00      6.40      0.00
+
+07:28:26    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:28:36       595.7M    665.4M    161.7M     16.6%     21.4M    143.5M    359.3M     36.8%     89.2M    178.4M     44.0k     98.4M     53.3M      2.0M      3.0M      7.6M
+
+07:28:26      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:28:36            0       130      0.01      0.01      0.00         0
+
+07:28:26     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:28:36         0.0%      0.0%      0.0%      0.0%
+
+07:28:26      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:28:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:28:26     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:28:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:28:36        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:28:46        all      0.1%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.9%
+
+07:28:36          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:28:46         0.80      0.00      0.80      0.00      0.00      8.00      0.00
+
+07:28:36    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:28:46       595.7M    665.4M    161.7M     16.6%     21.4M    143.5M    359.3M     36.8%     89.3M    178.4M     28.0k     98.4M     53.3M      2.0M      3.0M      7.6M
+
+07:28:36      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:28:46            0       130      0.01      0.01      0.00         0
+
+07:28:36     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:28:46         0.0%      0.0%      0.0%      0.1%
+
+07:28:36      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:28:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:28:36     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:28:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:28:46        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:28:56        all      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.9%
+
+07:28:46          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:28:56         0.60      0.00      0.60      0.00      0.00     10.40      0.00
+
+07:28:46    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:28:56       595.7M    665.4M    161.7M     16.6%     21.4M    143.5M    359.3M     36.8%     89.3M    178.5M     48.0k     98.4M     53.3M      2.0M      3.0M      7.6M
+
+07:28:46      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:28:56            0       130      0.01      0.00      0.00         0
+
+07:28:46     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:28:56         0.0%      0.0%      0.0%      0.0%
+
+07:28:46      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:28:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:28:46     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:28:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:28:56        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:29:06        all      0.2%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:28:56          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:29:06         0.40      0.00      0.40      0.00      0.00     11.20      0.00
+
+07:28:56    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:29:06       595.7M    665.5M    161.7M     16.6%     21.4M    143.5M    359.3M     36.8%     89.3M    178.5M     36.0k     98.4M     53.3M      2.0M      3.0M      7.6M
+
+07:28:56      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:29:06            0       130      0.01      0.00      0.00         0
+
+07:28:56     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:29:06         0.0%      0.0%      0.0%      0.0%
+
+07:28:56      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:29:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:28:56     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:29:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:29:06        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:29:16        all      0.1%      0.0%      0.1%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:29:06          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:29:16         1.10      0.00      1.10      0.00      0.00     16.00      0.00
+
+07:29:06    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:29:16       595.7M    665.5M    161.7M     16.6%     21.4M    143.5M    359.3M     36.8%     89.3M    178.3M     24.0k     98.2M     53.3M      2.0M      3.0M      7.6M
+
+07:29:06      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:29:16            0       130      0.00      0.00      0.00         0
+
+07:29:06     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:29:16         0.0%      0.0%      0.0%      0.0%
+
+07:29:06      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:29:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:29:06     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:29:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:29:16        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:29:26        all      0.1%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:29:16          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:29:26         0.20      0.00      0.20      0.00      0.00      3.20      0.00
+
+07:29:16    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:29:26       595.8M    665.6M    161.6M     16.6%     21.5M    143.5M    359.3M     36.8%     89.3M    178.3M     36.0k     98.2M     53.3M      2.0M      3.0M      7.6M
+
+07:29:16      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:29:26            0       130      0.00      0.00      0.00         0
+
+07:29:16     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:29:26         0.0%      0.0%      0.0%      0.1%
+
+07:29:16      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:29:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:29:16     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:29:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:29:26        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:29:36        all      0.2%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:29:26          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:29:36         0.50      0.00      0.50      0.00      0.00      7.20      0.00
+
+07:29:26    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:29:36       595.8M    665.6M    161.6M     16.6%     21.5M    143.6M    359.3M     36.8%     89.3M    178.4M     36.0k     98.2M     53.3M      2.0M      3.0M      7.6M
+
+07:29:26      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:29:36            0       130      0.00      0.00      0.00         0
+
+07:29:26     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:29:36         0.0%      0.0%      0.0%      0.1%
+
+07:29:26      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:29:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:29:26     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:29:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:29:36        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:29:46        all      0.1%      0.0%      0.1%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:29:36          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:29:46         1.00      0.00      1.00      0.00      0.00     16.80      0.00
+
+07:29:36    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:29:46       595.8M    665.6M    161.6M     16.6%     21.5M    143.6M    359.3M     36.8%     89.3M    178.4M     32.0k     98.2M     53.3M      2.0M      3.0M      7.6M
+
+07:29:36      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:29:46            1       130      0.00      0.00      0.00         0
+
+07:29:36     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:29:46         0.0%      0.0%      0.0%      0.1%
+
+07:29:36      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:29:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:29:36     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:29:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:29:46        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:29:56        all      0.1%      0.0%      0.1%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:29:46          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:29:56         0.40      0.00      0.40      0.00      0.00      6.40      0.00
+
+07:29:46    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:29:56       595.8M    665.6M    161.5M     16.6%     21.5M    143.6M    359.3M     36.8%     89.3M    178.4M     28.0k     98.2M     53.3M      2.0M      3.0M      7.6M
+
+07:29:46      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:29:56            1       130      0.00      0.00      0.00         0
+
+07:29:46     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:29:56         0.0%      0.0%      0.0%      0.0%
+
+07:29:46      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:29:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:29:46     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:29:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:29:56        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:30:06        all      0.1%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:29:56          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:30:06         0.40      0.00      0.40      0.00      0.00      4.80      0.00
+
+07:29:56    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:30:06       595.8M    665.6M    161.5M     16.6%     21.5M    143.6M    359.3M     36.8%     89.4M    178.4M     36.0k     98.2M     53.3M      2.0M      3.0M      7.6M
+
+07:29:56      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:30:06            0       130      0.00      0.00      0.00         0
+
+07:29:56     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:30:06         0.0%      0.0%      0.0%      0.0%
+
+07:29:56      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:30:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:29:56     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:30:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:30:06        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:30:16        all      0.1%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:30:06          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:30:16         0.50      0.00      0.50      0.00      0.00      7.20      0.00
+
+07:30:06    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:30:16       595.8M    665.6M    161.5M     16.6%     21.5M    143.6M    359.3M     36.8%     89.4M    178.4M     36.0k     98.2M     53.3M      2.0M      3.0M      7.6M
+
+07:30:06      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:30:16            0       129      0.00      0.00      0.00         0
+
+07:30:06     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:30:16         0.0%      0.0%      0.0%      0.0%
+
+07:30:06      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:30:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:30:06     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:30:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:30:16        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:30:26        all      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.9%
+
+07:30:16          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:30:26         0.60      0.00      0.60      0.00      0.00     12.80      0.00
+
+07:30:16    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:30:26       595.8M    665.7M    161.5M     16.6%     21.5M    143.6M    359.3M     36.8%     89.4M    178.4M     24.0k     98.2M     53.3M      2.0M      3.0M      7.6M
+
+07:30:16      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:30:26            0       129      0.00      0.00      0.00         0
+
+07:30:16     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:30:26         0.0%      0.0%      0.0%      0.0%
+
+07:30:16      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:30:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:30:16     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:30:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:30:26        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:30:36        all      5.2%      2.7%      1.2%      3.5%      0.0%      0.0%      0.2%      0.0%      0.0%     87.2%
+
+07:30:26          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:30:36        54.50     49.70      4.80      0.00   8548.80    110.40      0.00
+
+07:30:26    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:30:36       553.1M    664.8M    162.2M     16.6%     21.8M    185.1M    359.3M     36.8%    133.1M    176.4M    536.0k     98.2M     53.5M      2.0M      3.0M      7.6M
+
+07:30:26      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:30:36            0       129      0.07      0.02      0.00         0
+
+07:30:26     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:30:36         0.0%      0.0%      0.0%      0.2%
+
+07:30:26      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:30:36         3.5%      0.9%      0.2%      6.0%      3.4%      0.8%      0.2%      5.9%
+
+07:30:26     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:30:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:30:36        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:30:46        all      0.1%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.9%
+
+07:30:36          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:30:46         0.40      0.00      0.40      0.00      0.00      8.00      0.00
+
+07:30:36    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:30:46       553.1M    664.8M    162.2M     16.6%     21.8M    185.1M    359.3M     36.8%    133.1M    176.5M    532.0k     98.2M     53.5M      2.0M      3.0M      7.6M
+
+07:30:36      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:30:46            0       129      0.06      0.02      0.00         0
+
+07:30:36     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:30:46         0.0%      0.0%      0.0%      0.0%
+
+07:30:36      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:30:46         1.3%      0.8%      0.2%      0.0%      1.3%      0.7%      0.2%      0.0%
+
+07:30:36     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:30:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:30:46        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:30:56        all      0.1%      0.0%      0.1%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:30:46          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:30:56         5.40      0.00      5.40      0.00      0.00     74.40      0.00
+
+07:30:46    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:30:56       553.0M    664.8M    162.2M     16.6%     21.8M    185.1M    359.3M     36.8%    133.1M    176.5M    252.0k     98.2M     53.5M      2.0M      3.0M      7.6M
+
+07:30:46      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:30:56            0       129      0.05      0.01      0.00         0
+
+07:30:46     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:30:56         0.0%      0.0%      0.0%      0.1%
+
+07:30:46      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:30:56         0.5%      0.6%      0.2%      0.1%      0.5%      0.6%      0.2%      0.1%
+
+07:30:46     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:30:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:30:56        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:31:06        all      0.2%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:30:56          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:31:06         4.80      0.00      4.80      0.00      0.00     44.00      0.00
+
+07:30:56    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:31:06       553.0M    664.8M    162.2M     16.6%     21.8M    185.1M    359.3M     36.8%    133.2M    176.6M     56.0k     98.3M     53.5M      2.0M      3.0M      7.6M
+
+07:30:56      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:31:06            0       129      0.04      0.01      0.00         0
+
+07:30:56     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:31:06         0.0%      0.0%      0.0%      0.1%
+
+07:30:56      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:31:06         0.2%      0.5%      0.2%      0.0%      0.2%      0.5%      0.2%      0.0%
+
+07:30:56     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:31:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:31:06        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:31:16        all      0.1%      0.0%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:31:06          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:31:16         0.50      0.00      0.50      0.00      0.00      8.80      0.00
+
+07:31:06    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:31:16       553.0M    664.8M    162.2M     16.6%     21.9M    185.1M    359.3M     36.8%    133.2M    176.6M     60.0k     98.4M     53.5M      2.0M      3.0M      7.6M
+
+07:31:06      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:31:16            0       129      0.04      0.01      0.00         0
+
+07:31:06     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:31:16         0.0%      0.0%      0.0%      0.1%
+
+07:31:06      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:31:16         0.1%      0.5%      0.2%      0.0%      0.1%      0.4%      0.1%      0.0%
+
+07:31:06     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:31:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:31:16        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:31:26        all      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%    100.0%
+
+07:31:16          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:31:26         1.10      0.00      1.10      0.00      0.00     17.60      0.00
+
+07:31:16    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:31:26       553.0M    664.9M    162.1M     16.6%     21.9M    185.1M    359.3M     36.8%    133.2M    176.6M      8.0k     98.4M     53.5M      2.0M      3.0M      7.6M
+
+07:31:16      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:31:26            0       129      0.03      0.01      0.00         0
+
+07:31:16     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:31:26         0.0%      0.0%      0.0%      0.0%
+
+07:31:16      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:31:26         0.0%      0.4%      0.1%      0.0%      0.0%      0.4%      0.1%      0.0%
+
+07:31:16     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:31:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:31:26        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:31:36        all      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.9%
+
+07:31:26          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:31:36         0.50      0.00      0.50      0.00      0.00     11.20      0.00
+
+07:31:26    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:31:36       553.0M    664.9M    162.1M     16.6%     21.9M    185.1M    359.3M     36.8%    133.2M    176.6M     36.0k     98.4M     53.5M      2.0M      3.0M      7.6M
+
+07:31:26      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:31:36            0       129      0.02      0.01      0.00         0
+
+07:31:26     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:31:36         0.0%      0.0%      0.0%      0.0%
+
+07:31:26      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:31:36         0.0%      0.3%      0.1%      0.0%      0.0%      0.3%      0.1%      0.0%
+
+07:31:26     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:31:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:31:36        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:31:46        all      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.9%
+
+07:31:36          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:31:46         0.20      0.00      0.20      0.00      0.00      3.20      0.00
+
+07:31:36    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:31:46       553.0M    664.9M    162.1M     16.6%     21.9M    185.1M    359.3M     36.8%    133.2M    176.6M     44.0k     98.4M     53.5M      2.0M      3.0M      7.6M
+
+07:31:36      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:31:46            0       129      0.02      0.01      0.00         0
+
+07:31:36     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:31:46         0.0%      0.0%      0.0%      0.0%
+
+07:31:36      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:31:46         0.0%      0.3%      0.1%      0.0%      0.0%      0.3%      0.1%      0.0%
+
+07:31:36     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:31:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:31:46        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:31:56        all      0.1%      0.0%      0.1%      0.0%      0.0%      0.0%      0.1%      0.0%      0.0%     99.8%
+
+07:31:46          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:31:56         0.40      0.00      0.40      0.00      0.00      6.40      0.00
+
+07:31:46    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:31:56       553.0M    664.9M    162.1M     16.6%     21.9M    185.1M    359.3M     36.8%    133.2M    176.6M     52.0k     98.4M     53.5M      2.0M      3.0M      7.6M
+
+07:31:46      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:31:56            0       129      0.02      0.01      0.00         0
+
+07:31:46     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:31:56         0.0%      0.0%      0.0%      0.0%
+
+07:31:46      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:31:56         0.0%      0.2%      0.1%      0.0%      0.0%      0.2%      0.1%      0.0%
+
+07:31:46     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:31:56         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:31:56        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:32:06        all      0.2%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:31:56          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:32:06         0.80      0.00      0.80      0.00      0.00     13.60      0.00
+
+07:31:56    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:32:06       553.0M    664.9M    162.1M     16.6%     21.9M    185.1M    359.3M     36.8%    133.2M    176.6M     32.0k     98.4M     53.5M      2.0M      3.0M      7.6M
+
+07:31:56      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:32:06            0       129      0.01      0.01      0.00         0
+
+07:31:56     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:32:06         0.0%      0.0%      0.0%      0.1%
+
+07:31:56      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:32:06         0.0%      0.2%      0.1%      0.0%      0.0%      0.2%      0.1%      0.0%
+
+07:31:56     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:32:06         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:32:06        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:32:16        all      0.1%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.7%
+
+07:32:06          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:32:16         0.50      0.00      0.50      0.00      0.00     11.20      0.00
+
+07:32:06    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:32:16       553.0M    664.9M    162.1M     16.6%     21.9M    185.1M    359.3M     36.8%    133.2M    176.6M     40.0k     98.4M     53.5M      2.0M      3.0M      7.6M
+
+07:32:06      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:32:16            0       129      0.01      0.01      0.00         0
+
+07:32:06     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:32:16         0.0%      0.0%      0.0%      0.1%
+
+07:32:06      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:32:16         0.0%      0.2%      0.1%      0.0%      0.0%      0.1%      0.1%      0.0%
+
+07:32:06     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:32:16         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:32:16        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:32:26        all      0.2%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:32:16          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:32:26         0.20      0.00      0.20      0.00      0.00      3.20      0.00
+
+07:32:16    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:32:26       553.0M    665.0M    162.0M     16.6%     21.9M    185.1M    359.3M     36.8%    133.2M    176.6M     52.0k     98.4M     53.5M      2.0M      3.0M      7.6M
+
+07:32:16      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:32:26            0       129      0.01      0.01      0.00         0
+
+07:32:16     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:32:26         0.0%      0.0%      0.0%      0.0%
+
+07:32:16      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:32:26         0.0%      0.1%      0.1%      0.0%      0.0%      0.1%      0.1%      0.0%
+
+07:32:16     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:32:26         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:32:26        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:32:36        all      0.2%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.8%
+
+07:32:26          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:32:36         1.00      0.00      1.00      0.00      0.00     11.20      0.00
+
+07:32:26    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:32:36       553.0M    665.0M    162.0M     16.6%     21.9M    185.1M    359.3M     36.8%    133.3M    176.7M     36.0k     98.4M     53.5M      2.0M      3.0M      7.6M
+
+07:32:26      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:32:36            0       129      0.01      0.00      0.00         0
+
+07:32:26     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:32:36         0.0%      0.0%      0.0%      0.1%
+
+07:32:26      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:32:36         0.0%      0.1%      0.1%      0.0%      0.0%      0.1%      0.1%      0.0%
+
+07:32:26     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:32:36         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+07:32:36        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+07:32:46        all      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.9%
+
+07:32:36          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+07:32:46         0.30      0.00      0.30      0.00      0.00      6.40      0.00
+
+07:32:36    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+07:32:46       553.0M    665.0M    162.0M     16.6%     22.0M    185.1M    359.3M     36.8%    133.3M    176.7M     28.0k     98.4M     53.5M      2.0M      3.0M      7.6M
+
+07:32:36      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+07:32:46            0       129      0.01      0.00      0.00         0
+
+07:32:36     %scpu-10  %scpu-60 %scpu-300     %scpu
+07:32:46         0.0%      0.0%      0.0%      0.1%
+
+07:32:36      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+07:32:46         0.0%      0.1%      0.1%      0.0%      0.0%      0.1%      0.1%      0.0%
+
+07:32:36     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+07:32:46         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
+
+Average:        CPU      %usr     %nice      %sys   %iowait    %steal      %irq     %soft    %guest    %gnice     %idle
+Average:        all      0.2%      0.0%      0.1%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%     99.6%
+
+Average:          tps      rtps      wtps      dtps   bread/s   bwrtn/s   bdscd/s
+Average:         1.35      0.45      0.89      0.00     73.65     13.47      0.00
+
+Average:    kbmemfree   kbavail kbmemused  %memused kbbuffers  kbcached  kbcommit   %commit  kbactive   kbinact   kbdirty  kbanonpg    kbslab  kbkstack   kbpgtbl  kbvmused
+Average:       587.5M    666.3M    159.8M     16.4%     21.1M    152.6M    358.7M     36.8%     94.0M    180.7M     73.5k     96.6M     54.6M      2.0M      3.0M      7.6M
+
+Average:      runq-sz  plist-sz   ldavg-1   ldavg-5  ldavg-15   blocked
+Average:            0       130      0.01      0.01      0.00         0
+
+Average:     %scpu-10  %scpu-60 %scpu-300     %scpu
+Average:         0.0%      0.0%      0.0%      0.1%
+
+Average:      %sio-10   %sio-60  %sio-300      %sio   %fio-10   %fio-60  %fio-300      %fio
+Average:         0.1%      0.1%      0.0%      0.1%      0.1%      0.0%      0.0%      0.1%
+
+Average:     %smem-10  %smem-60 %smem-300     %smem  %fmem-10  %fmem-60 %fmem-300     %fmem
+Average:         0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%      0.0%
