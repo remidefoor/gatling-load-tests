@@ -1,7 +1,7 @@
 {
   "simulation": "ServerSentEventsSimulation",
-  "simulationId": "serversenteventssimulation-20230316075139696",
-  "start": 1678953100823,
+  "simulationId": "serversenteventssimulation-20230316082755690",
+  "start": 1678955276528,
   "description": "",
   "scenarios": ["Closed"],
   "assertions": [

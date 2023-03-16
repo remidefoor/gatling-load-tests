@@ -17,7 +17,7 @@ public class ServerSentEventsSimulation extends Simulation {
             exec(sse("Server-sent Events Connect").connect("/event-stream")
                             .await(10)
                             .on(serverSentEventsCheck))
-                    .pause(30)
+                    .pause(300)
                     .exec(sse("Server-sent Events Close").close());
 
     ScenarioBuilder openScenario = scenario("Open").exec(serverSentEvents);
