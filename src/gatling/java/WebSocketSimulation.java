@@ -8,7 +8,7 @@ import io.gatling.javaapi.http.WsFrameCheck;
 public class WebSocketSimulation extends Simulation {
 
     HttpProtocolBuilder httpProtocol =
-            http.wsBaseUrl("ws://34.148.212.17934.148.212.179:8080");
+            http.wsBaseUrl("ws://34.138.203.98:8080");
 
     WsFrameCheck webSocketCheck =
             ws.checkTextMessage("WebSocket Check")
@@ -16,7 +16,7 @@ public class WebSocketSimulation extends Simulation {
 
     ChainBuilder webSocket =
             exec(ws("WebSocket Connect").connect("/")
-                            .await(5)
+                            .await(10)
                             .on(webSocketCheck))
                     .pause(300)
                     .exec(ws("WebSocket Close").close());
